@@ -7,7 +7,7 @@ The PERCEIVE function causes a change in the specified aspect using the specifie
 Example:
 
 ```
-WHILE [MIND.consciousness] > 0
+WHILE ([MIND.consciousness] > 0)
     {
     PERCEIVE ([MIND.consciousness] --)
     }

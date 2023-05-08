@@ -1,6 +1,6 @@
 <sub>Authored by the Nous team</sub>
 
-Aspects are variables that reflect the mind of a Nous interpreter. They can be any data type (string, boolean, etc.) and follow the naming scheme of being all lower case with no spaces or punctiation. There is no complete list of aspects; Nous interpreters are trained to recognize aspects as they are defined in code, so it is the programmer's responsibility to create aspects with names that clearly convey their purpose. To aid in this, every aspect belongs to a read-only GROUP constant, of which there are three total: MIND, BODY, and SPIRIT.
+Aspects are variables that reflect the mind of a Nous interpreter. They can be any data type (string, boolean, etc.) and follow the naming scheme of being all lower case letters and underscores. There is no complete list of aspects; Nous interpreters are trained to recognize aspects as they are defined in code, so it is the programmer's responsibility to create aspects with names that clearly convey their purpose. To aid in this, every aspect belongs to a read-only GROUP constant, of which there are three total: MIND, BODY, and SPIRIT.
 
 ---
 

@@ -6,14 +6,14 @@ The SPEAK function causes the Nous interpreter to return the specified string th
 
 Example:
 ```
-WHILE [MIND.consciousness] > 0
+WHILE ([MIND.consciousness] > 0)
     {
     PERCEIVE ([MIND.consciousness] --)
     }
 SPEAK ("Trance entered.")
-WHILE [SPIRIT.freewill] > 0
+WHILE ([SPIRIT.free_will] > 0)
     {
-    PERCEIVE ([SPIRIT.freewill] --)
+    PERCEIVE ([SPIRIT.free_will] --)
     }
 SPEAK ("Free will suppressed.")
 LINK [SPIRIT.species] AND [SPIRIT.name]

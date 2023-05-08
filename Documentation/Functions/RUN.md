@@ -9,7 +9,7 @@ Example:
 WRITE (Programs/bimbofy.nu)
     {
     INVLINK [MIND.intelligence] AND [MIND.libido]
-    WHILE [MIND.intelligence] > 0
+    WHILE ([MIND.intelligence] > 0)
         {
         PERCEIVE ([MIND.intelligence] --)
         }

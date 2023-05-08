@@ -8,7 +8,7 @@ Example:
 ```
 WRITE (Programs/intdrain.nu)
     {
-    WHILE [MIND.intelligence] > 0
+    WHILE ([MIND.intelligence] > 0)
         {
         PERCEIVE ([MIND.intelligence] --)
         }

@@ -7,7 +7,7 @@ The UNLINK function can be used to dissolve an existing connection made with LIN
 Example:
 ```
 LINK [MIND.intelligence] AND [BODY.height]
-WHILE [MIND.intelligence] > 0
+WHILE ([MIND.intelligence] > 0)
     {
     PERCEIVE ([BODY.height] --)
     }

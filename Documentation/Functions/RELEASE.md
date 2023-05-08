@@ -6,10 +6,13 @@ The RELEASE function will cause the specified aspect (or all aspects if none is 
 
 EXAMPLE:
 ```
-WHILE [MIND.affected] = true
-	{
-	IF [MIND.comfort] = 0 {RELEASE}
+WHILE ([MIND.affected] = true)
+    {
+    IF ([MIND.comfort] = 0)
+        {
+        RELEASE
 	}
+    }
 EXIT
 ```
 
