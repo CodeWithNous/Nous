@@ -8,4 +8,4 @@ PERCEIVE ([SPIRIT.gender] = USER ([SPIRIT.gender]))
 EXIT
 ```
 
-The above code will change the gender of the Nous operater to match the user's gender.
+The above code will change the gender of the Nous interpreter to match the user's gender.
