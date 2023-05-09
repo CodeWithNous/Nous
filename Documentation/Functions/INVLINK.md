@@ -6,12 +6,12 @@ The INVLINK function is similar to the LINK function; however, the connections c
 
 Example:
 ```
-INVLINK [MIND.intelligence] AND [BODY.breast_size] AND [MIND.libido]
+INVLINK [MIND.intelligence] AND [BODY.breasts/size] AND [MIND.libido]
 WHILE ([MIND.intelligence] > 0)
     {
     PERCEIVE ([MIND.intelligence] --)
     }
-UNLINK [MIND.intelligence] AND [BODY.breast_size] AND [MIND.libido]
+UNLINK [MIND.intelligence] AND [BODY.breasts/size] AND [MIND.libido]
 EXIT
 ```
 

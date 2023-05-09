@@ -6,9 +6,9 @@ The LINK function can be used to create a connection between the first mentioned
 
 Example:
 ```
-LINK [BODY.breast_size] AND [MIND.libido]
+LINK [BODY.breasts/size] AND [MIND.libido]
 PERCEIVE ([BODY.breast_size] ++)
-UNLINK [BODY.breast_size] AND [MIND.libido]
+UNLINK [BODY.breasts/size] AND [MIND.libido]
 EXIT
 ```
 

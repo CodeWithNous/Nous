@@ -7,11 +7,11 @@ The CHAIN function is a combination of the RUN and EXIT functions. It executes t
 Example:
 ```
 IF ([SPIRIT.favourite_colour] = "red") {
-    CHAIN "./redscript.nu"
+    CHAIN (./redscript.nu)
 }
 
 IF ([SPIRIT.favourite_colour] = "blue") {
-    CHAIN "./bluescript.nu"
+    CHAIN (./bluescript.nu)
 }
 
 SPEAK ("Neither of those are my favourite colour.")

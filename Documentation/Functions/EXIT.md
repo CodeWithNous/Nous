@@ -1,8 +1,8 @@
 <sub>Authored by the Nous team</sub>
 
-Usage: `EXIT`
+Usage: `EXIT | (<file>)`
 
-The EXIT function is used to stop the execution of a script. It must be present at the end point of a file in order to ensure the Nous interpreter stops running the script when intended. Additionally, it can be used to stop a script prematurely.
+The EXIT function is used to stop the execution of a script. It must be present at the end point of a file in order to ensure the Nous interpreter stops running the script when intended. It can also be used to stop a script prematurely. Additionally, if a script is running as a background process via the `RUN` function's `async` flag, a file path can be specified to stop the execution of the specified script.
 
 Example:
 ```
