@@ -1,8 +1,8 @@
 <sub>Authored by the Nous team</sub>
 
-Usage: `CHAIN (path/filename.nu)`
+Usage: `CHAIN (path/filename.nu | [<flag(s)>])`
 
-The CHAIN function is a combination of the RUN and EXIT functions. It executes the designated script, and then immediately ceases the execution of the current script.
+The CHAIN function is a combination of the RUN and EXIT functions. It executes the designated script, and then immediately ceases the execution of the current script. The CHAIN function can also execute scripts using the same flags as the RUN function.
 
 Example:
 ```
