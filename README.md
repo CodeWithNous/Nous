@@ -4,7 +4,7 @@ Nous is an entirely fictional programming language with hypnotic overtones, desi
 One of the core creative ideas of Nous is the idea of manipulating the `MIND`, `BODY`, `SPIRIT`, and `WORLD`. For more information on this, please read [Aspects.md](Documentation/Concepts/Aspects.md).
 
 # Credits
-The Nous team consists of Twitter users [@track19bless](https://twitter.com/track19bless) and [@AquaSysAD](https://twitter.com/AquaSysAD). 
+The Nous team consists of Twitter users [@track19bless](https://twitter.com/track19bless) and [@SomeGunks](https://twitter.com/SomeGunks). 
 
 [The Nous logos](Branding/) were created by [@JunieDreamcast](https://twitter.com/JunieDreamcast).
 
